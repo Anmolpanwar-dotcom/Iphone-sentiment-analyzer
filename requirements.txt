@@ -1,5 +1,5 @@
-streamlit
-tensorflow
-scikit-learn
-pandas
-numpy
+fastapi
+uvicorn
+tensorflow-cpu
+pydantic
+numpy<2.0.0
